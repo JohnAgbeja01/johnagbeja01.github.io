@@ -67,7 +67,6 @@ WELCOME TO JOHNAGBEJA OFFICIAL PAGE
   <header>
     <h1>John Agbeja</h1>
     <p>Creative Graphics Designer</p>
-    <img src="IMG-20250105-WA0009.jpg" alt="John Agbeja" class="profile-img"/>
   </header>
 
   <section>
