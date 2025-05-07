@@ -1,9 +1,9 @@
-WELCOME TO JOHNAGBEJA OFFICIAL PAGE
+<h3>WELCOME TO JOHNAGBEJA OFFICIAL PAGE<h3>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>| Graphics Designer</title>
+| Graphics Designer</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -65,8 +65,8 @@ WELCOME TO JOHNAGBEJA OFFICIAL PAGE
 <body>
 
   <header>
-    <h1>John Agbeja</h1>
-    <p>Creative Graphics Designer</p>
+    <h1>I am John Agbeja</h1>
+    <p>A Creative Graphics Designer</p>
   </header>
 
   <section>
