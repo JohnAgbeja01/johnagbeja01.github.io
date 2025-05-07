@@ -63,7 +63,6 @@
 </head>
 <body>
     <p>A Creative Graphics Designer</p>
-  </header>
 
   <section>
     <h2>Let Me Bring Your Ideas to Life</h2>
